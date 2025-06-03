@@ -1,9 +1,9 @@
 # terminal_rain_maytrix
 
 
-maytrix.sh - run in a terminal on RHEL8, resize before starting app
+maytrix.sh - run in a terminal on RHEL8, resize before starting app.
 
-maytrix2.sh - best on, but some refresh
+maytrix2.sh - best one, but some refresh lag.
 
 maytrix3.py - python version, not as good
 
@@ -14,7 +14,7 @@ $ mkdir matrixrain
 $ cd matrixrain
 $ go mod init matrixrain (create go.mod module file)
 
-put main.go file in this directory, tidy then run go app
+put main.go file in this directory, tidy then run go app.
 $ go mod tidy
 $ go run main.go
 

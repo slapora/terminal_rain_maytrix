@@ -23,7 +23,7 @@ $ go mod tidy
 
 $ go run main.go
 
-compile from diretory with main.go
+compile from directory with main.go
 
 $ go build -o matrixrain main.go
 

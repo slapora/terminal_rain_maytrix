@@ -29,4 +29,7 @@ $ go build -o matrixrain main.go
 
 $ ./matrixrain
 
+<img width="959" height="370" alt="image" src="https://github.com/user-attachments/assets/74b72334-52a7-4471-8314-429c6f7fdfff" />
+
+
 
